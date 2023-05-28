@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ganesh-26
-- 👀 I’m interested in Cloud programming
+- 👀 I’m interested in Java Full Stack 
 - 🌱 I’m currently learning Java,JS
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me -> ganeshskodiya11@gmail.com
 
 <!---
